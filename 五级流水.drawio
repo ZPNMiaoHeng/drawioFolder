@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T09:15:46.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5aNuOyL9aG4KnZLaxdx-" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-06T09:25:21.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7ELoCWGFuKNc5oFN711i" version="20.2.3" type="github" pages="3">
   <diagram id="bDnEHNWDBDzwl0PKhSvK" name="三期-单周期">
     <mxGraphModel dx="576" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -773,7 +773,7 @@
             <mxPoint x="593" y="65.00999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QEXMhTwhcCRr9oko1Srp-37" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.504;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" parent="1" source="QEXMhTwhcCRr9oko1Srp-23" edge="1">
+        <mxCell id="QEXMhTwhcCRr9oko1Srp-37" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.504;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" parent="1" source="QEXMhTwhcCRr9oko1Srp-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="513" y="114.72999999999999" as="sourcePoint" />
             <mxPoint x="593" y="114.73000000000002" as="targetPoint" />
@@ -785,7 +785,7 @@
             <mxPoint x="593" y="164.82000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QEXMhTwhcCRr9oko1Srp-39" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
+        <mxCell id="QEXMhTwhcCRr9oko1Srp-39" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0000FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="514" y="284.81999999999994" as="sourcePoint" />
             <mxPoint x="594" y="284.81999999999994" as="targetPoint" />
@@ -893,11 +893,44 @@
         <mxCell id="bf_suEXTZPbydxUjuvGO-1" value="wen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="264" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--1" value="Ram2r1w&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="374" y="400.5" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--4" value="zpncore" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="514" y="400.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--5" value="Ram2r1w" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="714" y="400.5" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TzOehAAtKTy9Hbs5fZT--1" target="TzOehAAtKTy9Hbs5fZT--4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="453.99999999999994" y="460.81999999999994" as="sourcePoint" />
+            <mxPoint x="494" y="460.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TzOehAAtKTy9Hbs5fZT--4" target="TzOehAAtKTy9Hbs5fZT--5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="659" y="460.36" as="sourcePoint" />
+            <mxPoint x="704" y="460.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--8" value="imem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--10" value="dmem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="641.5" y="430.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--11" value="指令读取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="369" y="463.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzOehAAtKTy9Hbs5fZT--12" value="指令存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="709" y="463.5" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="p5vQEHEo89UwnTtDNuU3" name="Decode内部电路">
-    <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
