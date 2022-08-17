@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T07:42:01.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jlDmB5LNzlVg6vbEPUOL" version="20.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-17T08:33:15.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="9Vkw7UcI26yH0w2N2K3x" version="20.2.4" type="github" pages="4">
   <diagram id="5pk5TCV-JJ2XicqM3Zmq" name="五级流水">
     <mxGraphModel dx="1209" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2667,7 +2667,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ckgf9BFuv_yj2M5Eww4T" name="ICache-两路组相连">
-    <mxGraphModel dx="573" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3089,22 +3089,6 @@
         </mxCell>
         <mxCell id="l6MeYOUwUY4Sypm59hdR-11" value="cacheMiss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="1900" y="381.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6MeYOUwUY4Sypm59hdR-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontColor=#3399FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.563;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1830" y="174.5" as="sourcePoint" />
-            <mxPoint x="1587.56" y="174.89999999999998" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1820" y="166.5" />
-              <mxPoint x="1760" y="139.5" />
-              <mxPoint x="1720" y="129.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l6MeYOUwUY4Sypm59hdR-13" value="cacheHit" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;labelBackgroundColor=default;html=1;" vertex="1" connectable="0" parent="l6MeYOUwUY4Sypm59hdR-12">
-          <mxGeometry x="-0.1449" y="12" relative="1" as="geometry">
-            <mxPoint x="-1" y="-4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="l6MeYOUwUY4Sypm59hdR-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;opacity=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l6MeYOUwUY4Sypm59hdR-6" target="l6MeYOUwUY4Sypm59hdR-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
