@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T12:19:37.762Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OFjhDF3CR9kVJEQnhbRF" version="21.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-18T12:22:21.528Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8X6Q4_kFDggkVJa0of0_" version="21.1.8" type="github" pages="6">
   <diagram id="5pk5TCV-JJ2XicqM3Zmq" name="五级流水">
     <mxGraphModel dx="2313" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5800,6 +5800,18 @@
         </mxCell>
         <mxCell id="3VebVGBIaKA1Yhj5PZwC-4" value="Reserve&lt;br&gt;0x0201_0000-0x0FFF_FFFF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3VebVGBIaKA1Yhj5PZwC-5" value="&lt;br&gt;0x1000_0000-0xFFFF_FFFF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3VebVGBIaKA1Yhj5PZwC-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="740" y="440" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3VebVGBIaKA1Yhj5PZwC-7" value="e203" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="485" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3VebVGBIaKA1Yhj5PZwC-8" value="iEDA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="565" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
