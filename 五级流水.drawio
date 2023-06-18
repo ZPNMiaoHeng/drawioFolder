@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T14:29:26.982Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j-Rma-I4Wc5xJO0nOzH6" version="21.3.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-18T14:48:42.274Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YgOi6iLYHzt35OPpXSPi" version="21.3.8" type="github" pages="8">
   <diagram id="5pk5TCV-JJ2XicqM3Zmq" name="五级流水">
     <mxGraphModel dx="2074" dy="1321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5867,7 +5867,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dF_U-x4b4WbvvyS_-icK" name="分支预测">
-    <mxGraphModel dx="919" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="425" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7425,6 +7425,21 @@
         </mxCell>
         <mxCell id="OQliRXtd-_caaaxALvIJ-202" value="xorHash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="588" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OQliRXtd-_caaaxALvIJ-205" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="302" y="950" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OQliRXtd-_caaaxALvIJ-206" value="1 0 0 0 0 1&lt;br&gt;1 1 0 0 0 0&lt;br&gt;0 1 1 0 0 0&lt;br&gt;0 0 1 1 0 0&lt;br&gt;0 0 0 1 1 0&lt;br&gt;0 0 0 0 1 1&lt;br&gt;1 0 0 0 0 0&lt;br&gt;0 1 0 0 0 0&lt;br&gt;&amp;nbsp;0 0 1 0 0 0&amp;nbsp;&lt;br&gt;0 0 0 1 0 0&lt;br&gt;0 0 0 0 1 0&lt;br&gt;0 0 0 0 0 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="221" y="940" width="90" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OQliRXtd-_caaaxALvIJ-208" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="213" y="950" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OQliRXtd-_caaaxALvIJ-209" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;H&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1015" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OQliRXtd-_caaaxALvIJ-210" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;xor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="182" y="1025" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
